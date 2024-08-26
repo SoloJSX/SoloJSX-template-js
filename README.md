@@ -1,0 +1,1 @@
+# SoloJSX + Vite + JavaScript
