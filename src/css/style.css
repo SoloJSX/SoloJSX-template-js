@@ -15,7 +15,7 @@
 
 body {
     margin: 0;
-    padding-top: 20%;
+    padding-top: 20dvh;
     width: 100%;
     text-align: center;
 }
